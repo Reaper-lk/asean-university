@@ -1,0 +1,67 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Apr 2026 12:22:29 at https://asean-university.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://asean-university.com/ -O1 "C:\My Web Sites\uni" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:23:06	Warning: 	Moved Permanently for https://asean-university.com/?p=1954
+12:23:06	Warning: 	File has moved from https://asean-university.com/?p=1954 to https://asean-university.com/structure/
+12:23:06	Warning: 	Moved Permanently for https://asean-university.com/?p=1980
+12:23:06	Warning: 	File has moved from https://asean-university.com/?p=1980 to https://asean-university.com/history/
+12:23:06	Warning: 	Moved Permanently for https://asean-university.com/?p=2213
+12:23:06	Warning: 	File has moved from https://asean-university.com/?p=2213 to https://asean-university.com/contact-us/
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/?p=1993 (from https://asean-university.com/faculty/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Ffaculty%2F&format=xml (from https://asean-university.com/faculty/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/litespeed/css/aa5b4dac0952ba829e0a0d809bd4bf31.css?ver=882b8 (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/wp/v2/pages/1836 (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/?p=1836 (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fgallery%2F (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fgallery%2F&format=xml (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_8_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_7_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_6_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_5_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_4_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_2_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/event_1_color-of-the-world-asean-university-international/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/gallery/page/2/ (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/isotope/isotope.min.js?ver=3.0.8 (from https://asean-university.com/gallery/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/litespeed/css/f9c9ac1b4047bfab01d55bbca9421910.css?ver=882b8 (from https://asean-university.com/pendaftaran-beasiswa/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/wp/v2/pages/1968 (from https://asean-university.com/pendaftaran-beasiswa/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/?p=1968 (from https://asean-university.com/pendaftaran-beasiswa/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fpendaftaran-beasiswa%2F (from https://asean-university.com/pendaftaran-beasiswa/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fpendaftaran-beasiswa%2F&format=xml (from https://asean-university.com/pendaftaran-beasiswa/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/litespeed/css/4d134cbee2d419edad1272eaac1479c1.css?ver=882b8 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/wp/v2/pages/2327 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/?p=2327 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fprofile%2F (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasean-university.com%2Fprofile%2F&format=xml (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/uploads/2025/01/PRESENTASI-AUI_20241222_032021_0000.pdf (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-includes/js/dist/vendor/wp-polyfill-importmap.min.js?ver=1.8.2 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-includes/blocks/file/view.min.js?ver=6.6.1 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-includes/js/dist/interactivity.min.js?ver=6.6.1 (from https://asean-university.com/profile/)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/asean-university/certificate/style.css?ver=6.6.1 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1723054684 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1723054684 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/themes/kadence/assets/css/content.min.css?ver=1723054684 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/themes/kadence/assets/css/footer.min.css?ver=1723054684 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1018 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1018 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.7.1018 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:07	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/uploads/2024/08/logo-title-asean-university-international.webp (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-admin/admin-ajax.php?action=auipmt_initdata (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-admin/admin-ajax.php?action=auipmt_mahasiswaregistration (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.2.7 (from https://asean-university.com/pendaftaran-mahasiswa/?degree=1)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/a (from https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1018)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/r (from https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1018)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/a.redirect (from https://asean-university.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1018)
+12:23:12	Error: 	"Too Many Requests" (429) at link https://asean-university.com/wp-content/uploads/2024/08/banner-asean-university-international-1.png (from https://asean-university.com/wp-content/litespeed/css/e6ff9fcde7ec969caad900f2f8b5eea5.css?ver=882b8)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 150 links scanned, 95 files written (31155767 bytes overall) [20170597 bytes received at 458422 bytes/sec], 14828086 bytes transferred using HTTP compression in 78 files, ratio 25%, 14.0 requests per connection
+(50 errors, 6 warnings, 0 messages)
